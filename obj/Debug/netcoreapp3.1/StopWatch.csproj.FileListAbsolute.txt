@@ -1,0 +1,14 @@
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.AssemblyReference.cache
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\adeli\Dropbox\Ade\learn\c#\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
